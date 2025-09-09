@@ -1,8 +1,11 @@
-# Lab 1 - Streamlit Image Uploader
+# Intro to AI Course
 
-A simple Streamlit app that allows you to upload an image (`jpg`, `jpeg`, `png`, `webp`) and display it.
+This repository contains labs, hints or assignments for the **Introduction to AI** course.  
+Each task is organized in its own folder (e.g., `task_1`, `task_2`, ...), with a separate README and implementation files.
 
-## Run the App
+## Structure
+- `task_1/` – Lab 1: Streamlit Image Uploader
+- More tasks will be added as the course progresses.
 
-```bash
-streamlit run app.py
+## How to Run Labs
+Navigate into a task folder and follow the instructions in its README.  
